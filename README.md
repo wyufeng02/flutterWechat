@@ -4,7 +4,7 @@
  
 
 # 首页 
-<img style="width:300px;height:660px" src="snapshoot/home.PNG"  alt="首页" align=center />
+<img style="width:150px;height:3300px" src="snapshoot/home.PNG"  alt="首页" align=center />
  
 
 # 通讯录 
